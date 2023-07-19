@@ -1,0 +1,4 @@
+7月 19 21:53:58 guoyp-virtual-machine systemd[2445]: Startup finished in 4.834s.
+7月 17 23:20:14 guoyp-virtual-machine systemd[4516]: Startup finished in 3.594s.
+7月 17 22:07:22 guoyp-virtual-machine systemd[91556]: Startup finished in 36.256s.
+7月 17 22:08:50 guoyp-virtual-machine systemd[93521]: Startup finished in 3.165s.
